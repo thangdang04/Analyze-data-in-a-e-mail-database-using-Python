@@ -1,1 +1,1 @@
-# Analyze-data-in-a-e-mail-database-using-Python
+# Data analysis project on an e-mail database
